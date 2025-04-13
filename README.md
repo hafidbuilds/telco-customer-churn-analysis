@@ -20,18 +20,8 @@ Use linear regression to **predict Customer Lifetime Value (CLTV)** based on var
 
 ---
 
-## ✅ Skills Demonstrated
-
-- 🧹 Data preprocessing (handling nulls, encoding, feature selection)
-- 📊 EDA using Pandas, Matplotlib, and Seaborn
-- ⚙️ Feature engineering from categorical and numerical data
-- 📈 Linear regression modeling with scikit-learn
-- 📉 Model evaluation using RMSE and R² Score
-- 🧠 Business interpretation of regression coefficients
-
----
-
 ## 🔍 Next Steps
+TBD
 
 ---
 
@@ -48,11 +38,15 @@ The dataset used is the **Telco Customer Churn Dataset**, which includes:
 
 ## 📌 Tools Used
 
+- Python
+- Pandas
+- NumPy
+- Matplotlib & Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
 ---
 
-## 🤝 Contributions & Feedback
-
----
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
@@ -109,4 +103,3 @@ The dataset used is the **Telco Customer Churn Dataset**, which includes:
 ```
 
 --------
-
